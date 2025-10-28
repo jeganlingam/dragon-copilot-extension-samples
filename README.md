@@ -55,12 +55,12 @@ See [CLI README](tools/dragon-extension-cli/README.md) for details.
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Ensure all tests pass
-6. Submit a pull request
+1. Fork the repository.
+2. Create a feature branch.
+3. Make your changes.
+4. Add tests.
+5. Ensure all tests pass.
+6. Submit a pull request.
 
 ## 📄 License
 
